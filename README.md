@@ -90,6 +90,8 @@ Track application performance and errors.
 
 ## Development Tools
 
+- [VAP-MCP](https://github.com/elestirelbilinc-sketch/vap-showcase) - Execution control layer for AI media generation (image, video, music) with cost guarantees.
+- 
 ### Frameworks 🛠️
 Tools for building and extending MCP capabilities.
 
